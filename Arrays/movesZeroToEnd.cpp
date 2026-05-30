@@ -27,3 +27,7 @@ vector<int> moveZeros(int n, vector<int> arr)
     }
     return arr;
 }
+
+
+
+//Better Approach
